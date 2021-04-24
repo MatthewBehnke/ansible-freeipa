@@ -11,7 +11,6 @@ freeipa_pip_dependency_pkgs:
   - jslint
   - jwcrypto
   - kdcproxy
-  - osutil
   - paramiko==2.2.0
   - pyasn1>=0.4.1
   - pyasn1-modules
